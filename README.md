@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Engineering student, my focus is on web development. Having extensively studied this domain, I aim to broaden my expertise<br>across different fields within computer engineering, leveraging my ability to quickly<br>grasp new concepts.
+I’m a Computer Engineering student, my focus is on web development. Having extensively studied this domain, I aim to broaden my expertise across different fields within computer engineering, leveraging my ability to quickly grasp new concepts.
 
 
 ## 🌐 Socials:
